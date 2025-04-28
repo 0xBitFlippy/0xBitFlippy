@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👾 BitFlippy | Web3 Tinkerer
 
-<!--
-**0xBitFlippy/0xBitFlippy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Some call it code.  
+I call it creation.*
 
-Here are some ideas to get you started:
+> *"Not all who wander are lost. Some are just debugging the matrix."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Building the Future
+
+Websites. Smart contracts. dApps. Web3 tools. Infrastructure.  
+The future is written one block — and one deployment — at a time.
+
+---
+
+### ⚙️ Tools of the Trade
+
+| Category               | Tools |
+|:------------------------|:------|
+| **Blockchain Environments** | `EVM` • `SVM` |
+| **Smart Contracts**     | `Solidity` • `Rust` |
+| **Frontend**            | `React` • `Svelte` • `Vue` |
+| **Backend**             | `TypeScript` • `Python` • `.NET` |
+| **Infra / DevOps**      | `Vercel` • `Netlify` • `IPFS` • `Akash` |
+
+---
+
+### 🛰️ Connect with Me
+
+- [🐦 X (Twitter) — @bitflippy](https://x.com/bitflippy)
+- [✈️ Telegram — @bitflippy](https://t.me/bitflippy)
+
+---
